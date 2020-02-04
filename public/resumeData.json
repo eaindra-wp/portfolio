@@ -1,0 +1,187 @@
+{
+  "main": {
+    "name": "Eaindra Wun Pyae",
+    "occupation": "(Your Occupation Here)",
+    "description": [
+      "Keen observer, Fast learner & developer"
+    ],
+    "bio": [
+      "Originally from Myanmar, I am currently pursuing my Bachelor Degree in Computer Science at Jacobs University Bremen. ",
+      "With keen interests in Machine Learning, Artificial Intelligence, Computer Vision and Full-Stack Development",
+      ", and Artificial Intelligence, I am passionate about implementing efficient products and solutions for the community."
+    ],
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "eaindra719@gmail.com",
+    "phone": "+49 1525 2373494",
+    "address": {
+      "street": "College Ring 4",
+      "city": "Bremen",
+      "state": "Germany",
+      "zip": "28759",
+      "mailbox": " KB-228"
+    },
+    "website": "https://eaindra-wp.github.io",
+    "resumedownload": "http://eaindra",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/e.wunpyae.7",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/eaindra-wp/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/eaindra.wp/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/eaindra-wp",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Jacobs University Bremen",
+        "degree": "Bachelors of Computer Science",
+        "graduated": "September 2018 - June 2021",
+        "first_yr": [
+          "Programming in C/C++, Algorithms and Data Structures,",
+          " Entrepreneurship and Innovations, Financial Accounting"
+        ],
+        "second_yr": [
+          "Databases and Web Services, Operating Systems, Computer Architecture and Programming Languages, ",
+          "Computer Graphics, Formal Languages and Logics, ",
+          "Software Engineering, Computer Networks, Secure and Dependable Systems, Computation and Complexity, Machine Learning"
+        ]
+      }
+    ],
+    "work": [
+      {
+        "company": "Koe Koe Tech",
+        "title": "Full-stack Web Developer Intern",
+        "years": "June 2019 - August 2019",
+        "description": [
+          "Implemented responsive app-landing web pages for the company's application products, ",
+          "and an interactive website with for teachers from government high schools with valid log-in access to add, ",
+          "edit and/or retrieve particular students' details, and teachers' working status in the school"
+        ]
+      },
+      {
+        "company": "MYEO (Myanmar Youth Empowerment Opportunities)",
+        "title": "Tech Team Intern",
+        "years": "February 2018 - August 2018",
+        "description": "Implemented Facebook Messenger Chatbots, for sending up-to-date articles on the website to subscribers, and processing registration, acceptance and payment by applicants and admins for the company’s online courses"
+      }
+    ],
+    "curricular": [
+      {
+        "name": "Rotaract Club at Jacobs University Bremen",
+        "title": "Social Media Manager",
+        "years": "May 2019 - Present",
+        "description": [
+          "Running campaigns for bi-weekly projects of the club on social media pages, and collaborating with",
+          " other student-led clubs and event organizers on campus for fund-raising for various donation projects"
+        ]
+      },
+      {
+        "name": "Run Yangon 3.0",
+        "title": "Organizer, Marketing & IT",
+        "years": "June 2019 - August 2019",
+        "description": [
+          "The largest youth-led scavenger hunt in Yangon, Myanmar",
+          "\n Led campaigns and marketing posts for the event, application and payment processes for the participants"
+        ]
+      }
+    ],
+    "skills": [
+      {
+        "name": "C/C++",
+        "level": "90%"
+      },
+      {
+        "name": "HTML5 + CSS + Bootstrap",
+        "level": "90%"
+      },
+      {
+        "name": "C# + ASP.NET",
+        "level": "90%"
+      },
+      {
+        "name": "Python",
+        "level": "80%"
+      },
+      {
+        "name": "Microsoft SQL Server, MySQL",
+        "level": "80%"
+      },
+      {
+        "name": "Node.js",
+        "level": "70%"
+      },
+      {
+        "name": "React.js, jQuery, AJAX",
+        "level": "70%"
+      },
+      {
+        "name": "Java",
+        "level": "70%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "PHP",
+        "level": "60%"
+      }
+    ],
+    "languages" : [
+      {
+        "lan" : "Burmese",
+        "level" : "Native"
+      },
+      {
+        "lan" : "English",
+        "level" : "Fluent (C1)"
+      },
+      {
+        "lan" : "German",
+        "level" : "Intermediate (B1)"
+      },
+      {
+        "lan" : "Chinese",
+        "level" : "Intermediate (A2)"
+      }
+    ] 
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Crypt It!",
+        "category": "A Telegram Chatbot to encrypt/decrypt messages",
+        "image": "crypt-it.png",
+        "url": ""
+      },
+      {
+        "title": "Gesturely Automation",
+        "category": "An application which receives various hand gestures from webcam, detects the finger count, and sends signals to the Bobst’s simulator machine to perform specific operations",
+        "image": "gesturely.png",
+        "url": "https://devpost.com/software/gesturely-automation"
+      },
+      {
+        "title": "Travel Guide",
+        "category": "An application built by using Google Assistant Voice Recognition and Skyscanner API to find and book cheapest fights from different destinations",
+        "image": "index.png",
+        "url": "https://devpost.com/software/travel-guide-kpaxjb"
+      }
+    ]
+  }
+}
