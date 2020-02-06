@@ -34,12 +34,15 @@ class Resume extends Component {
       })
 
       var languages = this.props.data.languages.map(function (languages) {
-        return <div key={languages.level} class="row">
-          <div class="four columns">
-            <h4>{languages.lan}</h4>
-          </div>
-          <div class="eight-columns">
-            <em classname="date">{languages.level}</em>
+        return <div key={languages.level}>
+
+          <div class="row">
+            <div class="four columns">
+              <h5 classname="language-lan">{languages.lan}</h5>
+            </div>
+            <div class="four columns">
+              <span classname="language-level">{languages.level}</span>
+            </div>
           </div>
         </div>
       })

@@ -412,6 +412,11 @@ ul#nav li.current a { color: #11ABB0; }
   100% { width: 80%;  }
 }  */
 
+#resume .language-level {
+   font: 25px 'opensans-regular', sans-serif;
+}
+
+
 /* ------------------------------------------------------------------ */
 /* e. Portfolio Section
 /* ------------------------------------------------------------------ */
@@ -1009,3 +1014,16 @@ footer .social-links li:first-child { margin-left: 0; }
  	border-radius: 100%;
 }
 #go-top a:hover { background-color: #0F9095; }
+
+table {
+   border-collapse: collapse;
+   width: 100%;
+   display: grid;
+}
+ 
+table, th, td {
+   border: none;
+   text-align: left;
+}
+
+tr:hover {background-color: #f4f4f4;}
